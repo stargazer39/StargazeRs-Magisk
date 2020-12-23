@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.6
-versionCode=7
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=stargazers-module
+name=StargazeR's Magisk Module
+version=v1.0
+versionCode=1
+author=StargazeR39
+description=Various android trix
+support=https://stargazer39.github.io/
